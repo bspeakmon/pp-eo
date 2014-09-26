@@ -623,20 +623,20 @@ $tokens tokens, apartment $apt","Day $day
 $savings credits, $family family members,
 $tokens tokens, apartment $apt"
 "text:load_continue","CONTINUE","CONTINUE"
-"text:emotion_happy","HAPPY","HAPPY"
-"text:emotion_ok","OK","OK"
-"text:emotion_sad","SAD","SAD"
-"text:emotion_cold","COLD","COLD"
-"text:emotion_sick","SICK","SICK"
-"text:emotion_verysick","VERY SICK","VERY SICK"
-"text:emotion_dead","DEAD","DEAD"
-"text:emotion_hungry","HUNGRY","HUNGRY"
-"text:load_latest","LATEST","LATEST"
-"text:entry_approved","ENTRY GRANTED","ENTRY GRANTED"
-"text:entry_denied","ENTRY DENIED","ENTRY DENIED"
-"text:stamp_approved","APPROVED","APPROVED"
-"text:stamp_denied","DENIED","DENIED"
-"text:stamp_reason","REASON","REASON"
+"text:emotion_happy","HAPPY","FELICXA"
+"text:emotion_ok","OK","BONE"
+"text:emotion_sad","SAD","MALFELICXA"
+"text:emotion_cold","COLD","MALVARMA"
+"text:emotion_sick","SICK","MALSANA"
+"text:emotion_verysick","VERY SICK","TRE MALSANA"
+"text:emotion_dead","DEAD","MORTA"
+"text:emotion_hungry","HUNGRY","MALSATA"
+"text:load_latest","LATEST","PLEJ LASTA"
+"text:entry_approved","ENTRY GRANTED","ENIRO PERMESITA"
+"text:entry_denied","ENTRY DENIED","ENIRO MALPERMESITA"
+"text:stamp_approved","APPROVED","PERMESITA"
+"text:stamp_denied","DENIED","MALPERMESITA"
+"text:stamp_reason","REASON","KIALO"
 "text:booth_dragdocs","DRAG DOCUMENTS HERE","DRAG DOCUMENTS HERE"
 "text:booth_highlight","HIGHLIGHT DISCREPANCIES","HIGHLIGHT DISCREPANCIES"
 "text:booth_discrepancy","DISCREPANCY
@@ -653,8 +653,8 @@ CORRELATION"
 CLEARED","DISCREPANCY
 CLEARED"
 "text:env_clearforentry","Applicant clear for entry","Applicant clear for entry"
-"text:env_lettermale","M","M"
-"text:env_letterfemale","F","F"
+"text:env_lettermale","M","ICXO"
+"text:env_letterfemale","F","INO"
 "text:env_noalias","No known alias","No known alias"
 "text:env_typochars","aeiou,iuy,pgq,lj,ck,bh","aeiou,iuy,pgq,lj,ck,bh"
 "text:endless_complete","$style
@@ -670,49 +670,49 @@ $score Points"
 "text:endless_unlock","Complete story mode with your job intact to unlock endless mode","Complete story mode with your job intact to unlock endless mode"
 "text:endless_wrongcode","S O R R Y","S O R R Y"
 "text:date_verbose","$month $day, $year","$month $day, $year"
-"text:month_1","January","January"
-"text:month_2","February","February"
-"text:month_3","March","March"
-"text:month_4","April","April"
-"text:month_5","May","May"
-"text:month_6","June","June"
-"text:month_7","July","July"
-"text:month_8","August","August"
-"text:month_9","September","September"
-"text:month_10","October","October"
-"text:month_11","November","November"
-"text:month_12","December","December"
-"text:day_1","1st","1st"
-"text:day_2","2nd","2nd"
-"text:day_3","3rd","3rd"
-"text:day_4","4th","4th"
-"text:day_5","5th","5th"
-"text:day_6","6th","6th"
-"text:day_7","7th","7th"
-"text:day_8","8th","8th"
-"text:day_9","9th","9th"
-"text:day_10","10th","10th"
-"text:day_11","11th","11th"
-"text:day_12","12th","12th"
-"text:day_13","13th","13th"
-"text:day_14","14th","14th"
-"text:day_15","15th","15th"
-"text:day_16","16th","16th"
-"text:day_17","17th","17th"
-"text:day_18","18th","18th"
-"text:day_19","19th","19th"
-"text:day_20","20th","20th"
-"text:day_21","21st","21st"
-"text:day_22","22nd","22nd"
-"text:day_23","23rd","23rd"
-"text:day_24","24th","24th"
-"text:day_25","25th","25th"
-"text:day_26","26th","26th"
-"text:day_27","27th","27th"
-"text:day_28","28th","28th"
-"text:day_29","29th","29th"
-"text:day_30","30th","30th"
-"text:day_31","31st","31st"
+"text:month_1","January","januaro"
+"text:month_2","February","februaro"
+"text:month_3","March","marto"
+"text:month_4","April","aprilo"
+"text:month_5","May","majo"
+"text:month_6","June","junio"
+"text:month_7","July","julio"
+"text:month_8","August","aŭgusto"
+"text:month_9","September","septembro"
+"text:month_10","October","oktobro"
+"text:month_11","November","novembro"
+"text:month_12","December","decembro"
+"text:day_1","1st","1a"
+"text:day_2","2nd","2a"
+"text:day_3","3rd","3a"
+"text:day_4","4th","4a"
+"text:day_5","5th","5a"
+"text:day_6","6th","6a"
+"text:day_7","7th","7a"
+"text:day_8","8th","8a"
+"text:day_9","9th","9a"
+"text:day_10","10th","10a"
+"text:day_11","11th","11a"
+"text:day_12","12th","12a"
+"text:day_13","13th","13a"
+"text:day_14","14th","14a"
+"text:day_15","15th","15a"
+"text:day_16","16th","16a"
+"text:day_17","17th","17a"
+"text:day_18","18th","18a"
+"text:day_19","19th","19a"
+"text:day_20","20th","20a"
+"text:day_21","21st","21a"
+"text:day_22","22nd","22a"
+"text:day_23","23rd","23a"
+"text:day_24","24th","24a"
+"text:day_25","25th","25a"
+"text:day_26","26th","26a"
+"text:day_27","27th","27a"
+"text:day_28","28th","28a"
+"text:day_29","29th","29a"
+"text:day_30","30th","30a"
+"text:day_31","31st","31a"
 "text:bulletin_default","Arstotzka
 Ministry of Admission
 Official Bulletin
@@ -722,14 +722,14 @@ Inspector,
 $content
 
 Glory to Arstotzka.","Arstotzka
-Ministry of Admission
-Official Bulletin
+Ministrejo de Enlaso
+Oficiala Bulteno
 
-Inspector,
+Inspektisto,
 
 $content
 
-Glory to Arstotzka."
+Gloro al Arstotzka."
 "text:bulletin_notice","Arstotzka
 Ministry of Admission
 Official Bulletin
@@ -739,14 +739,14 @@ NOTICE:
 $content
 
 Glory to Arstotzka.","Arstotzka
-Ministry of Admission
-Official Bulletin
+Ministrejo de Enlaso
+Oficiala Bulteno
 
-NOTICE:
+AVIZO:
 
 $content
 
-Glory to Arstotzka."
+Gloro al Arstotzka."
 "text:bulletin_endless","Arstotzka
 Ministry of Admission
 Official Bulletin
@@ -756,14 +756,14 @@ $style
 $course
 
 Glory to Arstotzka.","Arstotzka
-Ministry of Admission
-Official Bulletin
+Ministrejo de Enlaso
+Oficiala Bulteno
 
 $style
 
 $course
 
-Glory to Arstotzka."
+Gloro al Arstotzka."
 "bulletin:1A","Welcome to your new position at Grestin Border Checkpoint.
 
 Stamp passport ENTRY VISA and return documents to entrant.
@@ -1203,23 +1203,23 @@ Continue to confiscate all Arstotzkan passports from native entrants."
 "facts","Vaccine Cert","Vaccine Cert"
 "facts","Identity Record","Identity Record"
 "facts","Fingerprints","Fingerprints"
-"facts","Name","Name"
-"facts","Id Number","Id Number"
-"facts","Expiration Date","Expiration Date"
-"facts","Issuing City","Issuing City"
-"facts","Birth Date","Birth Date"
-"facts","Alias","Alias"
-"facts","Height","Height"
-"facts","Weight","Weight"
-"facts","Description","Description"
-"facts","Thumbprint","Thumbprint"
-"facts","Date","Date"
-"facts","Purpose","Purpose"
-"facts","Duration","Duration"
-"facts","Face","Face"
-"facts","District","District"
-"facts","Gender","Gender"
-"facts","Work End Date","Work End Date"
+"facts","Name","Nomo"
+"facts","Id Number","Identiga N-ro"
+"facts","Expiration Date","Eksvalida Dato"
+"facts","Issuing City","Eldonita Urbo"
+"facts","Birth Date","Naskigxtago"
+"facts","Alias","Kasxnomo"
+"facts","Height","Alteco"
+"facts","Weight","Pezo"
+"facts","Description","Priskribo"
+"facts","Thumbprint","Poleksopremajxo"
+"facts","Date","Dato"
+"facts","Purpose","Celo"
+"facts","Duration","Dauxro"
+"facts","Face","Vizagxo"
+"facts","District","Distrikto"
+"facts","Gender","Sekso"
+"facts","Work End Date","Finlabora Dato"
 "facts","Altan","Altan"
 "facts","Vescillo","Vescillo"
 "facts","Burnton","Burnton"
