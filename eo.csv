@@ -149,7 +149,7 @@ NUR!"
 "PassportInnerImpor","SEX","SEK"
 "PassportInnerImpor","ISS.","DIS."
 "PassportInnerImpor","EXP.","EKS."
-"PassportInnerImpor","IMPOR","IMPOR"
+"PassportInnerImpor","IMPOR","IMPORIO"
 "PassportInnerKolechia","ENTRY VISA","ENIRO-VIZO"
 "PassportInnerKolechia","DOB.","NAS."
 "PassportInnerKolechia","SEX","SEK"
@@ -399,32 +399,32 @@ NUR!"
 "news:BUSTED_SPY_GAVEREALDOCS","Heroic Agents Compromised","Heroaj Agentoj Kompromitigxis"
 "news:BUSTED_SPY_GAVEFAKEDOCS","Kolechia Cleans House - Attacks Its Own!","Kolehxio Purigas - Atakas Sian Propran!"
 "news:BUSTED_SPY_GAVEFAKEDOCS","Round Of Disappearances Blamed On Faulty Evidence","Oni Kulpigis Misajn Evidentajxojn Por Serio Da Malaperajxoj"
-"news:FORGERY_NEWS","Theft At Ministry Of Admission!","Theft At Ministry Of Admission!"
-"news:FORGERY_NEWS","Limited Effects - Few Items Stolen","Limited Effects - Few Items Stolen"
+"news:FORGERY_NEWS","Theft At Ministry Of Admission!","Sxtelo Cxe Ministrejo de Enlaso!"
+"news:FORGERY_NEWS","Limited Effects - Few Items Stolen","Limitaj Efikoj - Malmultajn Aferojn Sxtelis"
 "news:SECRET_SOCIETY","The History of Arstotzka","La Historio de Arstotzkio"
 "news:SECRET_SOCIETY","In Pictures and Words - Mostly Words","Per Bildoj Kaj Vortoj - Plejparte Vortoj"
 "news:CRIMINAL_ACTIVITY","A Criminal's Safe Haven","Sekurejo Por Krimulo"
 "news:CRIMINAL_ACTIVITY","Arstotzka Earns Dubious Reputation","Arstotzkio Gajnas Malbonan Reputacion"
-"news:LOSING_GUARDS","Ministries Fight Over Staff","Ministries Fight Over Staff"
-"news:LOSING_GUARDS","Qualified Guards, Soldiers In Demand","Qualified Guards, Soldiers In Demand"
-"news:LOSING_GUARDS","Consolidation, Reassignment At Border","Consolidation, Reassignment At Border"
-"news:LOSING_GUARDS","Still Safe With Smaller Detail?","Still Safe With Smaller Detail?"
-"news:RUNNER_AFTER_TRANQ","Grestin Incident Highlights Security Risks","Grestin Incident Highlights Security Risks"
-"news:RUNNER_AFTER_TRANQ","Further Breaches Predicted","Further Breaches Predicted"
-"news:BIKE_ATTACK","Daring Bike Attack At Grestin Checkpoint!","Daring Bike Attack At Grestin Checkpoint!"
-"news:BIKE_ATTACK","Extremists Growing Bolder - Grestin Like Magnet","Extremists Growing Bolder - Grestin Like Magnet"
-"news:BORDER_TARGETED","Can The Wall Hold?","Can The Wall Hold?"
-"news:BORDER_TARGETED","Border Safety Continually Questioned","Border Safety Continually Questioned"
-"news:BIKERUNNER_NEWS","Coordinated Border Breach!","Coordinated Border Breach!"
-"news:BIKERUNNER_NEWS","Unknown Assailants Swamp Security","Unknown Assailants Swamp Security"
+"news:LOSING_GUARDS","Ministries Fight Over Staff","Ministrejoj Batalas Pri Stabo"
+"news:LOSING_GUARDS","Qualified Guards, Soldiers In Demand","Tauxgajn Gardistojn, Soldatojn Bezonas"
+"news:LOSING_GUARDS","Consolidation, Reassignment At Border","Malpliigxo, Miksagxo Cxe Landlimo"
+"news:LOSING_GUARDS","Still Safe With Smaller Detail?","Ankoraux Sekura Kun Malpli Granda Gardistaro?"
+"news:RUNNER_AFTER_TRANQ","Grestin Incident Highlights Security Risks","Grestino Okazo Emfazas Sekurajn Riskojn"
+"news:RUNNER_AFTER_TRANQ","Further Breaches Predicted","Pli Da Brecxhoj Antauxdiris"
+"news:BIKE_ATTACK","Daring Bike Attack At Grestin Checkpoint!","Auxdaca Bicikla Atako Cxe Grestino Kontrolpunkto!"
+"news:BIKE_ATTACK","Extremists Growing Bolder - Grestin Like Magnet","Ektremistoj Plisentimigxas - Grestion Kiel Magneto"
+"news:BORDER_TARGETED","Can The Wall Hold?","Cxu La Muro Povas Elteni?"
+"news:BORDER_TARGETED","Border Safety Continually Questioned","Landliman Sekurecon Disputadas"
+"news:BIKERUNNER_NEWS","Coordinated Border Breach!","Kunlaboranta Landlimo Brecxo!"
+"news:BIKERUNNER_NEWS","Unknown Assailants Swamp Security","Nekonataj Atakantoj Inundas Sekurecon"
 "news:NOSY_JOURNALIST_APPROVED","Arstotzka's Frail Border","Debila Landlimo de Arstotzkio"
 "news:NOSY_JOURNALIST_APPROVED","United Fed Reporter Exposes Lax Protocols","Unuigxinta Feda Raportisto Malkasxas Malstriktajn Protokolojn"
 "news:NOSY_JOURNALIST_DENIED","Arstotzka's Iron Border","Fera Landlimo de Arstotzkio"
 "news:NOSY_JOURNALIST_DENIED","Int. Media Reveals Entry Visa Bias","Internacia Gazetaro Montras Eniro-Vizan Antauxjugxon"
-"news:IDSUPPLEMENT_INTRO","Another Bomber Slips Through!","Another Bomber Slips Through!"
-"news:IDSUPPLEMENT_INTRO","Immigrant Screening Falls Short","Immigrant Screening Falls Short"
-"news:IDSUPPLEMENT_INTRO","M.O.A. Gets New Director","M.O.A. Gets New Director"
-"news:IDSUPPLEMENT_INTRO","Stricter Protocols Promised at Border","Stricter Protocols Promised at Border"
+"news:IDSUPPLEMENT_INTRO","Another Bomber Slips Through!","Alia Bombisto Trasxtelas!"
+"news:IDSUPPLEMENT_INTRO","Immigrant Screening Falls Short","Enmigranta Kontrolado Nesuficxas"
+"news:IDSUPPLEMENT_INTRO","M.O.A. Gets New Director","M.D.E. Havigas Novan Direktoron"
+"news:IDSUPPLEMENT_INTRO","Stricter Protocols Promised at Border","Pli Striktajn Protokolojn Promesas Cxe Landlimo"
 "news:WHISTLEBLOWER_SETUP0","Antegria Domestic Spying Exposed!","Antegria Enlanda Spionado Malkasxita!"
 "news:WHISTLEBLOWER_SETUP0","Whistleblower On The Run","Malkasxulo Ankoraux Nekaptita"
 "news:WHISTLEBLOWER_SETUP1","Antegrian Whistleblower Denied Asylum In Republia","Azilon En Respubliko Rifuzis Al Antegria Malkasxulo"
@@ -433,12 +433,12 @@ NUR!"
 "news:WHISTLEBLOWER_COMING","Move Risks Angering Neighbors","Ago Riskas Kolerigi Najbarojn"
 "news:WHISTLEBLOWER_IN","Antegrian Whistleblower Arrives - Disappears Immediately","Antegria Malkasxulo Alvenas - Tuj Malaperas"
 "news:WHISTLEBLOWER_OUT","Antegrian Whistleblower Turned Away - Whereabouts Unknown","Antegrian Malkasxulon Forsendis - Kieo Nekonata"
-"news:IMPOR_UNHAPPY","Impor Protests Unbalanced Trade Restrictions","Impor Protests Unbalanced Trade Restrictions"
-"news:IMPOR_UNHAPPY","Claims Arstotzka Unfairly Taxes Imporian Goods","Claims Arstotzka Unfairly Taxes Imporian Goods"
-"news:IMPOR_SANCTIONS_START","Impor Begins Trade Sanctions!","Impor Begins Trade Sanctions!"
-"news:IMPOR_SANCTIONS_START","Immediately Restricts All Imports From Arstotzka","Immediately Restricts All Imports From Arstotzka"
-"news:IMPOR_SANCTIONS_END","Impor Sanctions End!","Impor Sanctions End!"
-"news:IMPOR_SANCTIONS_END","Over So Fast? What Happened?","Over So Fast? What Happened?"
+"news:IMPOR_UNHAPPY","Impor Protests Unbalanced Trade Restrictions","Imporio Protestas Malegalajn Komercajn Restriktojn"
+"news:IMPOR_UNHAPPY","Claims Arstotzka Unfairly Taxes Imporian Goods","Asertas Arstotzkio Malgusxte Impostas Imporiajn Varojn"
+"news:IMPOR_SANCTIONS_START","Impor Begins Trade Sanctions!","Imporio Komencigas Komercajn Sankciojn"
+"news:IMPOR_SANCTIONS_START","Immediately Restricts All Imports From Arstotzka","Tuj Restriktas Cxiujn Importajxojn De Arstotzkio"
+"news:IMPOR_SANCTIONS_END","Impor Sanctions End!","Imporiaj Sankcioj Finigxis!"
+"news:IMPOR_SANCTIONS_END","Over So Fast? What Happened?","Finita Tiom Rapide? Kio Okazis?"
 "news:SURGERY_SETUP","Breakthrough Spinal Surgery Perfected","Breakthrough Spinal Surgery Perfected"
 "news:SURGERY_SETUP","Only Possible With Arstotzkan Expertise","Only Possible With Arstotzkan Expertise"
 "news:VIRUS_PRIMER","Polio Resurfaces In United Fed","Polio Reaperas En Unuigxinta Fedo"
@@ -905,11 +905,11 @@ Maintain your best behavior."
 
 Nothing important was stolen but intelligence suggests counterfeiters have already begun forging official Arstotzkan documents.
 
-Continued...","A break-in at M.O.A. offices may have compromised our document sealing plates.
+Continued...","Enrompajxo cxe la oficejo de M.D.E. eblas kompromiti nian dokumentsegilantajn-platojn.
 
-Nothing important was stolen but intelligence suggests counterfeiters have already begun forging official Arstotzkan documents.
+Neniu grava estis sxtelita sed spionada raportoj sugestas, ke falsistoj jam komencigas falsante oficajn arstotzkiajn dokumentojn.
 
-Continued..."
+Dauxrita..."
 "bulletin:11B","__________________________
 FORGERIES
 
@@ -1001,20 +1001,20 @@ If applicant clarifies discrepancies sufficiently, approval is authorized even w
 
 Under request from the Ministry of Trade, the Ministry of Admission will react to this violation.
 
-Deny all travelers from Impor.","Impor rejects all imported goods from Arstotzka.
+Deny all travelers from Impor.","Imporio rifuzas cxiujn imporiajn varojn de Arstotzkio.
 
-Under request from the Ministry of Trade, the Ministry of Admission will react to this violation.
+Je peto de la Ministrejo de Komerco, la Ministrejo de Enlaso reagos al tiu malobservado.
 
-Deny all travelers from Impor."
+Malaprobu cxiujn vojagxantojn el Imporio."
 "bulletin:20A","Impor has relented on their faulty policy.
 
 Imporians are now permitted entry.
 
-The divisional authority of East Grestin operations will visit again today.","Impor has relented on their faulty policy.
+The divisional authority of East Grestin operations will visit again today.","Imporio celis pri sian difektitan politikon.
 
-Imporians are now permitted entry.
+Oni nun permesas al Imporianoj eniron.
 
-The divisional authority of East Grestin operations will visit again today."
+La divisia auxtoritatujo de Eosoa Grestino aferoj denove vizitos hodiaux."
 "bulletin:21A","A special program for political asylum has been established.
 
 Those seeking asylum must carry a valid GRANT OF ASYLUM.
@@ -1026,9 +1026,9 @@ Tiuj, kiuj deziras azilon devas kunporti validan APROBON DE AZILO.
 Eniruloj kun tia aprobo ne bezonas ENIRO-PERMESILON aux IDENTECA SUPLEMENTO."
 "bulletin:23A","Your position is important and your responsibilities are broad.
 
-Follow all protocols strictly.","Your position is important and your responsibilities are broad.
+Follow all protocols strictly.","Via posteno gravas kaj viaj devoj estas vastaj.
 
-Follow all protocols strictly."
+Sekvu cxiujn protokolojn strikte."
 "bulletin:24A","Recent events have cast suspicion on the activities of Arstotzkan citizens in the ALTAN district.
 
 The Ministry of Information has requested our cooperation.
@@ -1169,7 +1169,7 @@ Continue to confiscate all Arstotzkan passports from native entrants."
 "facts","Antegria","Antegrio"
 "facts","Republia","Respublikio"
 "facts","UnitedFed","UnuigxintaFedo"
-"facts","Impor","Impor"
+"facts","Impor","Imporio"
 "facts","Kolechia","Kolehxio"
 "facts","Arstotzka","Arstotzka"
 "facts","Skal","Skal"
@@ -1294,7 +1294,7 @@ Continue to confiscate all Arstotzkan passports from native entrants."
 "facts","No entry from Republia","No entry from Republia"
 "facts","No entry from United Fed","No entry from United Fed"
 "facts","No entry from Obristan","Neenirebla de Obristio"
-"facts","No entry from Impor","No entry from Impor"
+"facts","No entry from Impor","Neenirebla de Imporio"
 "facts","No entry from Kolechia","Neenirebla de Kolehxio"
 "facts","Possible Terrorist Admitted","Possible Terrorist Admitted"
 "facts","Entrant Holds Conflicting Passports","Enirulo Havas Konfliktajn Pasportojn"
@@ -1327,15 +1327,15 @@ Continue to confiscate all Arstotzkan passports from native entrants."
 "paper:Rules","Republia","Republia"
 "paper:Rules","United","United"
 "paper:Rules","Federation","Federation"
-"paper:Rules","Impor","Impor"
+"paper:Rules","Impor","Imporio"
 "paper:Rules","Kolechia","Kolehxio"
 "paper:Rules","Arstotzka","Arstotzka"
 "paper:Rules","ANTEGRIA","ANTEGRIO"
-"paper:Rules","ARSTOTZKA","ARSTOTZKA"
-"paper:Rules","IMPOR","IMPOR"
+"paper:Rules","ARSTOTZKA","ARSTOTZKIO"
+"paper:Rules","IMPOR","IMPORIO"
 "paper:Rules","KOLECHIA","KOLEĤIO"
 "paper:Rules","OBRISTAN","OBRISTIO"
-"paper:Rules","REPUBLIA","REPUBLIA"
+"paper:Rules","REPUBLIA","RESPUBLIKIO"
 "paper:Rules","UNITED FED.","UNU-FEDO"
 "paper:Rules","Id Card (Native)","Id-Karto (Indigxeno)"
 "paper:Rules","Entry Permit","Eniro-Permesilo"
@@ -2533,19 +2533,19 @@ HOLD YOUR FIRE
 "traveler:OLD_INSPECTOR","@Where is entry permit?","@Kie estas eniro-permesilo?"
 "traveler:OLD_INSPECTOR","Eh, it does not matter what I say.","Eh, kion mi diras, ne gravas."
 "traveler:OLD_INSPECTOR","Just deny the visa and I will go.","Nur malaprobu la vizon kaj mi foriros."
-"traveler:RED_STAMP","Red stamp.","Red stamp."
-"traveler:RED_STAMP","@What?","@What?"
-"traveler:RED_STAMP","Give me red stamp.","Give me red stamp."
-"traveler:RED_STAMP","I am serious.","I am serious."
-"traveler:RED_STAMP","I have better job offer in Impor.","I have better job offer in Impor."
-"traveler:RED_STAMP","Red stamp and I can break contract in Arstotzka.","Red stamp and I can break contract in Arstotzka."
-"traveler:RED_STAMP","10 credits for you.","10 credits for you."
-"traveler:RED_STAMP","Damn it.","Damn it."
-"traveler:RED_STAMP","I am sure you deny people all day.","I am sure you deny people all day."
-"traveler:RED_STAMP","Why not now?","Why not now?"
-"traveler:RED_STAMP","I figure something else out.","I figure something else out."
-"traveler:RED_STAMP","Ok, now I get free from this bad job.","Ok, now I get free from this bad job."
-"traveler:RED_STAMP","Thanks.","Thanks."
+"traveler:RED_STAMP","Red stamp.","Rugxa stampo."
+"traveler:RED_STAMP","@What?","@Kio?"
+"traveler:RED_STAMP","Give me red stamp.","Donu al mi rugxan stampon."
+"traveler:RED_STAMP","I am serious.","Mi estas serioza."
+"traveler:RED_STAMP","I have better job offer in Impor.","Mi havas pli bonan laboroferton en Imporio."
+"traveler:RED_STAMP","Red stamp and I can break contract in Arstotzka.","Rugxa stampo kaj mi povas rompi kontrakton en Arstotzkio."
+"traveler:RED_STAMP","10 credits for you.","10 kreditoj por vi."
+"traveler:RED_STAMP","Damn it.","Diable."
+"traveler:RED_STAMP","I am sure you deny people all day.","Mi certas, ke vi malaprobas homojn tuttage."
+"traveler:RED_STAMP","Why not now?","Kial ne nun?"
+"traveler:RED_STAMP","I figure something else out.","Mi trovos alian planon."
+"traveler:RED_STAMP","Ok, now I get free from this bad job.","Bone, nun mi liberigxos el tiu malbona laboro."
+"traveler:RED_STAMP","Thanks.","Dankon."
 "traveler:NEED_SURGERY","I come for medical reasons.","Mi venas por medicinaj kialoj."
 "traveler:NEED_SURGERY","@Your papers are missing.","@Mankas viajn paperojn."
 "traveler:NEED_SURGERY","Please.","Mi petas."
@@ -2659,8 +2659,8 @@ HOLD YOUR FIRE
 "traveler:DENIAL_REASON_FIRST","@It is clearly stamped there.","@It is clearly stamped there."
 "traveler:DENIAL_REASON_FIRST","Oh.~","Oh.~"
 "traveler:DENIAL_REASON_FIRST","Screw you anyways.","Screw you anyways."
-"traveler:NO_IMPORIANS_FIRST","@Imporians are prohibited from entering.","@Imporians are prohibited from entering."
-"traveler:NO_IMPORIANS_DAY","@Imporians are prohibited from entering.","@Imporians are prohibited from entering."
+"traveler:NO_IMPORIANS_FIRST","@Imporians are prohibited from entering.","@Oni malpermesas eniri al imporianoj."
+"traveler:NO_IMPORIANS_DAY","@Imporians are prohibited from entering.","@Oni malpermesas eniri al imporianoj."
 "traveler:NO_UNITEDFED_FIRST","@Do not bring your sickness to Arstotzka.","@Do not bring your sickness to Arstotzka."
 "traveler:NO_UNITEDFED_FIRST","What?","What?"
 "traveler:NO_UNITEDFED_FIRST","I am perfectly healthy.","I am perfectly healthy."
@@ -2928,7 +2928,7 @@ HOLD YOUR FIRE
 "speech:ask-wrong-nation","No entry from Antegria.","Neenirebla de Antegrio."
 "speech:ask-wrong-nation","No entry from Republia.","No entry from Republia."
 "speech:ask-wrong-nation","No entry from Arstotzka.","No entry from Arstotzka."
-"speech:ask-wrong-nation","No entry from Impor.","No entry from Impor."
+"speech:ask-wrong-nation","No entry from Impor.","Neenirebla de Imporio."
 "speech:ask-search","Face the scanner.","Face the scanner."
 "speech:ask-search","Turn towards the scanner.","Turn towards the scanner."
 "speech:ask-detain","Wait here.","Wait here."
