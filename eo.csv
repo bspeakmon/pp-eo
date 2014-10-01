@@ -474,7 +474,7 @@ NUR!"
 "text:language_author","Author","Ben Speakmon"
 "text:wrap_hyphen","-","-"
 "text:created_by","created by Lucas Pope","verkita de Lucas Pope"
-"text:papers_please","Papers, please.","Papers, please."
+"text:papers_please","Papers, please.","Paperoj, bonvolu."
 "text:protocol_violated","Protocol Violated.","Protokolo estis malobservita."
 "text:unauth_confiscation","Unauthorized passport confiscation","Konfisko de malpermesita pasporto"
 "text:missing_reason","Denial reason not given","Nea kialo ne ekzistas"
@@ -521,52 +521,52 @@ NUR!"
 "text:family_escape_with_3","You gather your $0, $1, and $2 to leave for Obristan.","Vi amasigas vian $0n, $1n, kaj $2n por iri al Obristio."
 "text:family_escape_with_4","You gather your $0, $1, $2, and $3 to leave for Obristan.","Vi amasigas vian $0n, $1n, $2n, kaj $3n por iri al Obristio."
 "text:family_escape_with_5","You gather your $0, $1, $2, $3, and $4 to leave for Obristan.","Vi amasigas vian $0n, $1n, $2n, $3n, kaj $4n por iri al Obristio."
-"text:family_escape_without_1","Your $0 prepares to return to Nirsk.","Your $0 prepares to return to Nirsk."
-"text:family_escape_without_2","Your $0 and $1 prepare to return to Nirsk.","Your $0 and $1 prepare to return to Nirsk."
-"text:family_escape_without_3","Your $0, $1, and $2 prepare to return to Nirsk.","Your $0, $1, and $2 prepare to return to Nirsk."
-"text:family_escape_without_4","Your $0, $1, $2, and $3 prepare to return to Nirsk.","Your $0, $1, $2, and $3 prepare to return to Nirsk."
-"text:family_escape_without_5","Your $0, $1, $2, $3, and $4 prepare to return to Nirsk.","Your $0, $1, $2, $3, and $4 prepare to return to Nirsk."
+"text:family_escape_without_1","Your $0 prepares to return to Nirsk.","Via $0 preparas reiri al Nirsko."
+"text:family_escape_without_2","Your $0 and $1 prepare to return to Nirsk.","Via $0 kaj $1 preparas reiri al Nirsko."
+"text:family_escape_without_3","Your $0, $1, and $2 prepare to return to Nirsk.","Via $0, $1, kaj $2 preparas reiri al Nirsko."
+"text:family_escape_without_4","Your $0, $1, $2, and $3 prepare to return to Nirsk.","Via $0, $1, $2, kaj $3 preparas reiri al Nirsko."
+"text:family_escape_without_5","Your $0, $1, $2, $3, and $4 prepare to return to Nirsk.","Via $0, $1, $2, $3, kaj $4 preparas reiri al Nirsko."
 "text:family_flee_final_0","Obristan Above All","Obristio Antaŭ Ĉio"
-"text:family_flee_final_1","The safety of your $0 is unknown.","The safety of your $0 is unknown."
-"text:family_flee_final_2","The safety of your $0 and $1 is unknown.","The safety of your $0 and $1 is unknown."
-"text:family_flee_final_3","The safety of your $0, $1, and $2 is unknown.","The safety of your $0, $1, and $2 is unknown."
-"text:family_flee_final_4","The safety of your $0, $1, $2, and $3 is unknown.","The safety of your $0, $1, $2, and $3 is unknown."
+"text:family_flee_final_1","The safety of your $0 is unknown.","La sekureco de via $0 estas nekonata."
+"text:family_flee_final_2","The safety of your $0 and $1 is unknown.","La sekureco de via $0 kaj $1 estas nekonata."
+"text:family_flee_final_3","The safety of your $0, $1, and $2 is unknown.","La sekureco de via $0, $1 kaj $2 estas nekonata."
+"text:family_flee_final_4","The safety of your $0, $1, $2, and $3 is unknown.","La sekureco de via $0, $1, $2, kaj $3 estas nekonata."
 "text:family_flee_final_5","The safety of your $0, $1, $2, $3, and $4 is unknown.","The safety of your $0, $1, $2, $3, and $4 is unknown."
-"text:budget_savings","SAVINGS","SAVINGS"
-"text:budget_salary","SALARY ($0)","SALARY ($0)"
-"text:budget_penalties","PENALTIES ($0)","PENALTIES ($0)"
-"text:budget_bribes","BRIBES","BRIBES"
-"text:budget_rent","RENT","RENT"
-"text:budget_food","FOOD","FOOD"
-"text:budget_heat","HEAT","HEAT"
-"text:budget_medicine","MEDICINE ($0)","MEDICINE ($0)"
-"text:budget_sleep","SLEEP","SLEEP"
-"text:budget_escape","ESCAPE","ESCAPE"
-"text:menu_back","BACK","BACK"
-"text:confirm_ok","OKAY","OKAY"
-"text:confirm_cancel","CANCEL","CANCEL"
-"text:menu_mainmenu","MAIN MENU","MAIN MENU"
-"text:menu_resume","RESUME","RESUME"
-"text:menu_quit","QUIT","QUIT"
-"text:menu_done","DONE","DONE"
-"text:menu_story","STORY","STORY"
-"text:menu_endless","ENDLESS","ENDLESS"
-"text:menu_play","PLAY","PLAY"
-"text:menu_fullscreen","Fullscreen","Fullscreen"
-"text:menu_nudity","Nudity","Nudity"
-"text:menu_easy","Easy Mode","Easy Mode"
-"text:menu_music","Music","Music"
-"text:menu_sound","Sound","Sound"
-"text:menu_dateformat","Date Format","Date Format"
-"text:menu_language","Language","Language"
-"text:menu_easytip","+ 20 credits per day","+ 20 credits per day"
-"text:menu_stats","STATS","STATS"
-"text:menu_next","NEXT","NEXT"
-"text:menu_walktowork","WALK TO WORK","WALK TO WORK"
-"text:menu_paused","PAUSED","PAUSED"
-"text:menu_settings","SETTINGS","SETTINGS"
-"text:menu_credits","CREDITS","CREDITS"
-"text:menu_checkforupdates","CHECK FOR UPDATES","CHECK FOR UPDATES"
+"text:budget_savings","SAVINGS","SPARAĴO"
+"text:budget_salary","SALARY ($0)","SALAJRO ($0)"
+"text:budget_penalties","PENALTIES ($0)","PUNOJ ($0)"
+"text:budget_bribes","BRIBES","SUBAĈETOJ"
+"text:budget_rent","RENT","LUPREZO"
+"text:budget_food","FOOD","MANĜOJ"
+"text:budget_heat","HEAT","HEJTILO"
+"text:budget_medicine","MEDICINE ($0)","MEDIKAMENTOJ ($0)"
+"text:budget_sleep","SLEEP","DORMO"
+"text:budget_escape","ESCAPE","ESKAPO"
+"text:menu_back","BACK","ANTAŬ"
+"text:confirm_ok","OKAY","BONE"
+"text:confirm_cancel","CANCEL","NULIGI"
+"text:menu_mainmenu","MAIN MENU","ĈEFA MENUO"
+"text:menu_resume","RESUME","DAŬRIGI"
+"text:menu_quit","QUIT","ELIRI"
+"text:menu_done","DONE","FINITA"
+"text:menu_story","STORY","RAKONTO"
+"text:menu_endless","ENDLESS","SENFINA"
+"text:menu_play","PLAY","LUDI"
+"text:menu_fullscreen","Fullscreen","Plenekrana"
+"text:menu_nudity","Nudity","Nudeco"
+"text:menu_easy","Easy Mode","Facila Reĝimo"
+"text:menu_music","Music","Muziko"
+"text:menu_sound","Sound","Sono"
+"text:menu_dateformat","Date Format","Data Aranĝo"
+"text:menu_language","Language","Lingvo"
+"text:menu_easytip","+ 20 credits per day","+ 20 kreditoj ĉiutage"
+"text:menu_stats","STATS","STATISTIKO"
+"text:menu_next","NEXT","SEKVA"
+"text:menu_walktowork","WALK TO WORK","PIEDIRI AL LABORO"
+"text:menu_paused","PAUSED","PAŬZIGITA"
+"text:menu_settings","SETTINGS","AGORDOJ"
+"text:menu_credits","CREDITS","AGNOSKOJ"
+"text:menu_checkforupdates","CHECK FOR UPDATES","KONTROLI POR GXISDATOJ"
 "text:stats_text","Played for $time
 $processed travelers processed
 $approved approved
@@ -574,57 +574,57 @@ $denied denied
 $detained detained
 $citations citations earned
 $stamps stamps applied
-Ending $endnum of $endtotal","Played for $time
-$processed travelers processed
-$approved approved
-$denied denied
-$detained detained
+Ending $endnum of $endtotal","Luita dum $time
+$processed vojaĝantojn traktis
+$approved aprobita
+$denied malaprobita
+$detained malliberigita
 $citations imputojn gajnis
-$stamps stamps applied
-Ending $endnum of $endtotal"
+$stamps stampojn afiŝis
+Finoj $endnum de $endtotal"
 "text:steam_noinit","STEAM CONNECTION FAILED
 
-If this problem persists, re-install the Steam client.","STEAM CONNECTION FAILED
+If this problem persists, re-install the Steam client.","STEAM MALKONEKTITA
 
-If this problem persists, re-install the Steam client."
+Se tiu problemo daŭras, reinstalu la Steam-klienton."
 "text:steam_restartfailed","STEAM RESTART FAILED
 
-If this problem persists, re-install the Steam client.","STEAM RESTART FAILED
+If this problem persists, re-install the Steam client.","STEAM RESTARTIGO MALSUKCESIS
 
-If this problem persists, re-install the Steam client."
+Se tiu problemo daŭras, reinstalu la Steam-klienton."
 "text:steam_noconnect","STEAM CONNECTION FAILED
 
-The game will attempt to restart through the Steam client.","STEAM CONNECTION FAILED
+The game will attempt to restart through the Steam client.","STEAM MALKONEKTITA
 
-The game will attempt to restart through the Steam client."
-"text:steam_restart","RESTART","RESTART"
-"text:load_title","Select day to continue or start a new game","Select day to continue or start a new game"
+La ludo klopodos restartigi per la Steam-kliento."
+"text:steam_restart","RESTART","RESTARTIGI"
+"text:load_title","Select day to continue or start a new game","Elektu tagon por daŭri aŭ komencigu novan ludon"
 "text:load_confirm_delete_single","Delete this day $0 save?
 
-There is no undo.","Delete this day $0 save?
+There is no undo.","Forigi tiun tago-$0an konservaĵon?
 
-There is no undo."
+Ne eblas malfari."
 "text:load_confirm_delete_multi","Delete this save branch from day $0 to day $1?
 
-There is no undo.","Delete this save branch from day $0 to day $1?
+There is no undo.","Forigu tiun konservo-serion de tago $0 al tago $1?
 
-There is no undo."
-"text:load_delete","DELETE","DELETE"
+Ne eblas malfari."
+"text:load_delete","DELETE","FORIGI"
 "text:load_confirm_full","Save tracks full.
 
-Continue from a right-most save or delete a save branch to free up a track.","Save tracks full.
+Continue from a right-most save or delete a save branch to free up a track.","Konservingoj jam plenas.
 
-Continue from a right-most save or delete a save branch to free up a track."
+Daŭru de iu plej dekstra konservaĵo aŭ forigu konservo-serion por liberigi konservingon."
 "text:load_summary","Day $day
 ""$news""
 
 $savings credits, $family family members,
-$tokens tokens, apartment $apt","Day $day
+$tokens tokens, apartment $apt","Tago $day
 ""$news""
 
-$savings credits, $family family members,
-$tokens tokens, apartment $apt"
-"text:load_continue","CONTINUE","CONTINUE"
+$savings kreditoj, $family familianoj,
+$tokens ĵetonoj, apartamento $apt"
+"text:load_continue","CONTINUE","DAŬRIGI"
 "text:emotion_happy","HAPPY","FELICXA"
 "text:emotion_ok","OK","BONE"
 "text:emotion_sad","SAD","MALFELICXA"
@@ -639,26 +639,25 @@ $tokens tokens, apartment $apt"
 "text:stamp_approved","APPROVED","PERMESITA"
 "text:stamp_denied","DENIED","MALPERMESITA"
 "text:stamp_reason","REASON","KIALO"
-"text:booth_dragdocs","DRAG DOCUMENTS HERE","DRAG DOCUMENTS HERE"
-"text:booth_highlight","HIGHLIGHT DISCREPANCIES","HIGHLIGHT DISCREPANCIES"
+"text:booth_dragdocs","DRAG DOCUMENTS HERE","TRENI DOKUMENTOJN TIEN"
+"text:booth_highlight","HIGHLIGHT DISCREPANCIES","MARKI MALAKORDOJN"
 "text:booth_discrepancy","DISCREPANCY
-DETECTED","DISCREPANCY
-DETECTED"
-"text:booth_interrogate","INTERROGATE","INTERROGATE"
+DETECTED","MALAKORDO DETEKTITA"
+"text:booth_interrogate","INTERROGATE","EKZAMENADI"
 "text:booth_matching","MATCHING
-DATA","MATCHING
-DATA"
+DATA","AGORDAJ
+DATOJ"
 "text:booth_nocorrelation","NO
-CORRELATION","NO
-CORRELATION"
+CORRELATION","NENIU
+KORELATIVECO"
 "text:booth_cleared","DISCREPANCY
-CLEARED","DISCREPANCY
-CLEARED"
-"text:env_clearforentry","Applicant clear for entry","Applicant clear for entry"
-"text:env_lettermale","M","ICXO"
-"text:env_letterfemale","F","INO"
-"text:env_noalias","No known alias","No known alias"
-"text:env_typochars","aeiou,iuy,pgq,lj,ck,bh","aeiou,iuy,pgq,lj,ck,bh"
+CLEARED","MALAKORDO
+KLARIGITA"
+"text:env_clearforentry","Applicant clear for entry","Petanto aprobita por eniro"
+"text:env_lettermale","M","V"
+"text:env_letterfemale","F","I"
+"text:env_noalias","No known alias","Neniu konata kasxnomo"
+"text:env_typochars","aeiou,iuy,pgq,lj,ck,bh","aeiou,iu,pgq,lj,ck,bh"
 "text:endless_complete","$style
 $course
 
@@ -667,11 +666,11 @@ $score Points","$style
 $course
 
 $time
-$score Points"
-"text:endless_ranked","Ranked #$0","Ranked #$0"
-"text:endless_unlock","Complete story mode with your job intact to unlock endless mode","Complete story mode with your job intact to unlock endless mode"
-"text:endless_wrongcode","S O R R Y","S O R R Y"
-"text:date_verbose","$month $day, $year","$month $day, $year"
+$score Poentoj"
+"text:endless_ranked","Ranked #$0","Rankita #$0"
+"text:endless_unlock","Complete story mode with your job intact to unlock endless mode","Finigu rakonto-reĝimon ankoraŭe dungita por  malŝlosi senfino-reĝimon"
+"text:endless_wrongcode","S O R R Y","E R A R A"
+"text:date_verbose","$month $day, $year","la $daya de $month $year"
 "text:month_1","January","januaro"
 "text:month_2","February","februaro"
 "text:month_3","March","marto"
@@ -785,13 +784,13 @@ Your booth's INSPECTION hardware is now installed.
 
 Check all passport information carefully for discrepancies. Deny any entrant with inconsistent information.
 
-Continued...[PAGESNOTE]","From today, foreigners with a valid passport are permitted to enter.
+Continued...[PAGESNOTE]","Ekde hodiaux, fremduloj havante validan pasporton rajtas eniri.
 
-Your booth's INSPECTION hardware is now installed.
+INSPEKTO-masxino por via budo nun estas instalita.
 
-Check all passport information carefully for discrepancies. Deny any entrant with inconsistent information.
+Zorge kontrolu cxiujn pasporto-informojn por malakordoj. Malaprobu iun enirulon kun malkonformaj informoj.
 
-Continued...[PAGESNOTE]"
+Dauxrita...[PAGESNOTE]"
 "bulletin:2B","__________________________
 INSPECT MODE
 
@@ -801,23 +800,23 @@ __________________________
 RULES &amp; REGULATIONS
 
 This post is bound by Ministry of Admission rules and regulations. Study the rule book closely.","__________________________
-INSPECT MODE
+INSPEKTO REGXIMO
 
-Enter INSPECT mode using the red button on your desk. While inspecting, highlight two pieces of discrepant information for further options.
+Aktivigu INSPECTO regximo per la rugxa butono sur via skribtablo. Dum la inspektado, marku du pecojn da malakordaj informoj por pliaj elektoj. 
 
 __________________________
-RULES &amp; REGULATIONS
+REGULOJ &amp; REGULADOJ
 
-This post is bound by Ministry of Admission rules and regulations. Study the rule book closely."
+Tiu posteno devas observi la regulojn kaj reguladojn de la Ministrejo de Enlaso. Zorge studu la regulolibron."
 "bulletin:3A","Entry for non-citizens is now regulated. 
 
 All foreigners require a valid ENTRY TICKET.
 
-Verify information before stamping passport ENTRY VISA and returning all documents to entrant. [PAGESNOTE]","Entry for non-citizens is now regulated. 
+Verify information before stamping passport ENTRY VISA and returning all documents to entrant. [PAGESNOTE]","Eniro por necivitanoj nun estas reguligita. 
 
 Cxiuj fremduloj devas havi validan ENIRO-BILETON.
 
-Verify information before stamping passport ENTRY VISA and returning all documents to entrant. [PAGESNOTE]"
+Kontrol informoj antaux ol stampante pasportan ENIRO-VIZON kaj redonante cxiujn dokumentojn al petanto. [PAGESNOTE]"
 "bulletin:4A","Stricter credential requirements have been instituted.
 
 Arstotzkan citizens must show their ID CARD.
@@ -826,38 +825,38 @@ Foreigners must secure and present a valid ENTRY PERMIT.
 
 Entry tickets are no longer sufficient.
 
-Continued...","Stricter credential requirements have been instituted.
+Continued...","Pli striktajn identigilo-postulojn komencis.
 
-Arstotzkan citizens must show their ID CARD.
+Arstotzkianoj devas montri ilian ID-KARTON.
 
-Foreigners must secure and present a valid ENTRY PERMIT.
+Fremduloj devas akiri kaj prezenti validan ENIRO-PERMESILON.
 
-Entry tickets are no longer sufficient.
+Eniro-biletoj ne plu suficxas.
 
-Continued..."
+Dauxrita..."
 "bulletin:4B","A new chapter detailing document features has been added to your rulebook.
 
 Check all information thoroughly.
 
 Deny any applicant with discrepant documents.
 
-Refer to the AUDIO TRANSCRIPT to correlate entrant's statements.","A new chapter detailing document features has been added to your rulebook.
+Refer to the AUDIO TRANSCRIPT to correlate entrant's statements.","Novan cxapitron pri dokumentaj aspektoj aldonis al via regulolibro.
 
-Check all information thoroughly.
+Plene kontrolu cxiujn informojn.
 
-Deny any applicant with discrepant documents.
+Malaprobu iun ajn petanton kun malakordaj dokumentoj.
 
-Refer to the AUDIO TRANSCRIPT to correlate entrant's statements."
+Aludu al la AUXDTRANSSKRIBO por korelativigi deklarojn de petanto."
 "bulletin:5A","You are now authorized to detain suspicious individuals.
 
-Interrogate discrepancies to enable detention option.","You are now authorized to detain suspicious individuals.
+Interrogate discrepancies to enable detention option.","Vi nun rajtas malliberigi suspektindajn personojn.
 
-Interrogate discrepancies to enable detention option."
+Ekzamenadu malakordojn por sxalti opcion de malliberigo."
 "bulletin:6A","The Ministry of Labor has instituted a special program to control immigrant labor.
 
-Travelers entering for work require a valid WORK PASS.","The Ministry of Labor has instituted a special program to control immigrant labor.
+Travelers entering for work require a valid WORK PASS.","La Ministrejo de Laboro starigis specialan programon por regi enmigrajn laborulojn.
 
-Travelers entering for work require a valid WORK PASS."
+Vojagxantoj kiu eniras por labori devas havi validan LABORO-PASILON."
 "bulletin:7A","To facilitate more thorough inspections, a SEARCH scanner system has been installed in your booth.
 
 Kolechian extremists are suspected in yesterday's bombing. 
@@ -886,21 +885,21 @@ DIPLOMATS
 Diplomats require only a PASSPORT and valid DIPLOMATIC AUTHORIZATION to enter. 
 
 Refer to the rulebook for updated document information.","__________________________
-DIPLOMATS
+DIPLOMATOJ
 
-Diplomats require only a PASSPORT and valid DIPLOMATIC AUTHORIZATION to enter. 
+Diplomatoj devas havi nur PASPORTON kaj validan DIPLOMATA APROBON por eniri.
 
-Refer to the rulebook for updated document information."
+Aludu al la regulolibro por gxisdatiga dokumenta informo."
 "bulletin:9A","An undercover agent of the Ministry of Information has been compromised.
 
-The Ministry of Admission has offered its services as liaison. Expect a possible drop later today.","An undercover agent of the Ministry of Information has been compromised.
+The Ministry of Admission has offered its services as liaison. Expect a possible drop later today.","Sekreta agento de la Ministrejo de Informo estas kompromitita.
 
-The Ministry of Admission has offered its services as liaison. Expect a possible drop later today."
+La Ministrejo de Enlaso ofertis servi kiel interligo. Atendu eblan kasxpakajxon poste hodiaux."
 "bulletin:10A","The divisional authority of East Grestin operations will visit today.
 
-Maintain your best behavior.","The divisional authority of East Grestin operations will visit today.
+Maintain your best behavior.","La divisia auxtoritatulo de Eosta Grestina funckiado vizitos hodiaux.
 
-Maintain your best behavior."
+Kondutu vin en la plej bona maniero."
 "bulletin:11A","A break-in at M.O.A. offices may have compromised our document sealing plates.
 
 Nothing important was stolen but intelligence suggests counterfeiters have already begun forging official Arstotzkan documents.
@@ -916,11 +915,11 @@ FORGERIES
 Double-check that required documents contain valid seals. 
 
 Correlate missing or wrong seals against the appropriate entries in the DOCUMENTS chapter of your rulebook.","__________________________
-FORGERIES
+FALSAJXOJ
 
-Double-check that required documents contain valid seals. 
+Rekontrolu, ke postulaj dokumentoj enhavas validajn segilojn.
 
-Correlate missing or wrong seals against the appropriate entries in the DOCUMENTS chapter of your rulebook."
+Korelativigu mankantajn aux malgxustajn segilojn kun la tauxgaj noticoj en la cxapitro pri DOKUMENTOJ en via regulolibro."
 "bulletin:13A","The new director is unsatisfied with the level of scrutiny afforded to foreigners.
 
 From today forward, all foreign entrants must present a recent IDENTITY SUPPLEMENT listing weight, height, and appearance.
